@@ -48,5 +48,8 @@ The project uses a star schema including:
 ## Geo Analytics
 ![Geo Analytics](Geo%20Page.png)
 
-## 👤 Author
-Mohamed Ayman
+**Mohamed Ayman**
+
+Aspiring Data Analyst | AI Enthusiast | Power BI | SQL | Excel | Python
+
+- LinkedIn: www.linkedin.com/in/mohamed-ayman-a169ba253
