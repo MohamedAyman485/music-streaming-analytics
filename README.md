@@ -33,20 +33,20 @@ The project uses a star schema including:
 
 ##  Dashboard Preview
 
-### Home Page
-![Home Page](Images/Home%20Page.png)
+## Home Page
+![Home Page](Home%20Page.png)
 
-### Overview Page
-![Overview Page](Images/Overview%20Page.png)
+## Overview Page
+![Overview Page](Overview%20Page.png)
 
-### User Analytics
-![User Analytics](Images/User%20Analytics%20Page.png)
+## User Analytics
+![User Analytics](User%20Analytics%20Page.png)
 
-### Track Analytics
-![Track Analytics](Images/Track%20Analytics%20Page.png)
+## Track Analytics
+![Track Analytics](Track%20Analytics%20Page.png)
 
-### Geo Analytics
-![Geo Analytics](Images/Geo%20Page.png)
+## Geo Analytics
+![Geo Analytics](Geo%20Page.png)
 
 ## 👤 Author
 Mohamed Ayman
